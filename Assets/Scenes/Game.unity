@@ -1859,10 +1859,10 @@ RectTransform:
   m_Father: {fileID: 1445021670}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -9, y: -466.08997}
-  m_SizeDelta: {x: -438, y: -1400.58}
+  m_AnchorMin: {x: 0.20227344, y: 0.127}
+  m_AnchorMax: {x: 0.77753127, y: 0.35976028}
+  m_AnchoredPosition: {x: 1, y: 0.9100342}
+  m_SizeDelta: {x: -4, y: -4.579956}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1667567351
 MonoBehaviour:
@@ -2151,7 +2151,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6846472970280907601, guid: 7b65e43aa536c2241a25b3d47d76a3d6, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0.8023438
+      value: 0.80929595
       objectReference: {fileID: 0}
     - target: {fileID: 6846472970280907601, guid: 7b65e43aa536c2241a25b3d47d76a3d6, type: 3}
       propertyPath: m_SizeDelta.x
@@ -2159,7 +2159,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6846472970280907601, guid: 7b65e43aa536c2241a25b3d47d76a3d6, type: 3}
       propertyPath: m_SizeDelta.y
-      value: -2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6846472970280907601, guid: 7b65e43aa536c2241a25b3d47d76a3d6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2195,7 +2195,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6846472970280907601, guid: 7b65e43aa536c2241a25b3d47d76a3d6, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 2
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 6846472970280907601, guid: 7b65e43aa536c2241a25b3d47d76a3d6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2763,6 +2763,10 @@ PrefabInstance:
       propertyPath: audioSourceComponent
       value: 
       objectReference: {fileID: 1445021672}
+    - target: {fileID: 4702506642066181056, guid: 01435ab8b0f14b94ab836ebbb1c3ec9c, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.7199707
+      objectReference: {fileID: 0}
     - target: {fileID: 4702506642066181056, guid: 01435ab8b0f14b94ab836ebbb1c3ec9c, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -0.7200012

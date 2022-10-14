@@ -624,13 +624,13 @@
         <HintPath>C:\Users\user\Desktop\Projects\Unity_vers\2021.3.11f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:\Projects\Puzzle\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>D:\GitHub\Puzzle\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>D:\Projects\Puzzle\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+        <HintPath>D:\GitHub\Puzzle\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>D:\Projects\Puzzle\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>D:\GitHub\Puzzle\Library\PackageCache\com.unity.collab-proxy@1.17.2\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>C:\Users\user\Desktop\Projects\Unity_vers\2021.3.11f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
